@@ -55,6 +55,9 @@ plt.show()
 ```
 ## Output
 
+P.Hemasonica
+22003246
+
 ![graph1](https://user-images.githubusercontent.com/118361409/214348119-8272c900-ca5b-470b-909f-0bd3ba625ef6.png)
 
 ![graph2](https://user-images.githubusercontent.com/118361409/214348202-5679e4a4-ae63-4493-9a4a-3755c4014222.png)
